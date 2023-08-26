@@ -1,0 +1,86 @@
+*{
+    text-align: center;
+}
+#main{
+    box-sizing: border-box;
+    text-align: center;
+    width: 626px;
+    height: 486px;
+    margin: 64px auto 64px;
+}
+h1{
+    width: 494px;
+    color: #3F3D56;
+    text-align: center;
+    font-family: 'Dosis',sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal; 
+}
+p{
+    width: 540px;
+    height: 107px;
+    flex-shrink: 0;
+}
+p{
+    color: #828282;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; /* 146.667% */   
+}
+strong{
+    color: #3F3D56;
+    font-family: 'Open Sans';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+}
+#Flutuar{
+    color: #828282;
+    font-family: 'Open Sans';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+}
+#giant{
+    color: #EE24FF;
+    font-family: Dosis;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+a{
+    width: 66px;
+    height: 15.169px;
+    flex-shrink: 0;
+}
+a{
+    color: #3F3D56;
+    text-align: center;
+    font-family: 'Open Sans';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 147.682%; /* 22.152px */
+}
+#wave{
+
+    width: 1024px;
+    height: 104px;
+    flex-shrink: 0;
+}
+#line{
+    list-style: none;
+    width: 391px;
+    height: 0px;
+    flex-shrink: 0;
+    margin:  0 auto 8px; /*relogtinho*/
+    border: 1px  solid #ECEFF2;
+}
